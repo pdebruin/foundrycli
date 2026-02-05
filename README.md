@@ -13,7 +13,7 @@ A small experiment repository for working with Microsoft Learn MCP, Azure Foundr
 - [experiment-scripts.sh](experiment-scripts.sh): bash script with `az` CLI commands to create the Foundry deployment and verify readiness.
 - `TestClient/`: .NET 10 console application. Run it to list MCP tools and exercise the docs search tool.
 
-![Screenshot showing the chat log and the chat pane](./Screenshot 2026-02-05 104505.png)
+![Screenshot showing the chat log and the chat pane](<./Screenshot 2026-02-05 104505.png>)
 
 **Prerequisites**
 - `dotnet` (net10.0 SDK) installed.
